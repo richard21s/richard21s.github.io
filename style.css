@@ -1,8 +1,13 @@
+/* Gaya CSS Anda bisa ditambahkan di sini */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
+}
+
+.container {
+    padding-bottom: 80px; /* Tinggi footer + beberapa margin */
 }
 
 header {
