@@ -67,3 +67,9 @@ footer {
     width: 100%;
     box-sizing: border-box;
 }
+.gambar-profil {
+    width: 200px; /* Atur lebar gambar sesuai kebutuhan Anda */
+    height: 200px; /* Atur tinggi gambar sesuai kebutuhan Anda */
+    object-fit: cover; /* Menjaga aspek rasio gambar agar tidak terdistorsi */
+    border-radius: 50%; /* Mengubah properti border-radius menjadi 50% akan mengubahnya menjadi lingkaran */
+}
